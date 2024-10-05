@@ -37,8 +37,8 @@ We use this categorical data encoding technique when the features are nominal(do
 # CODING AND OUTPUT:
 
 ```
-/* DEVELOPED BY :THIRUMALAI V
-REGISTER NO: 212223040229*/
+/* DEVELOPED BY :MOHAN RAJ C
+REGISTER NO: 212223040114*/
 ```
 ```
 import pandas as pd
